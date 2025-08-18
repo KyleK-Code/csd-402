@@ -1,3 +1,18 @@
+# Java-specific files to ignore
+*.class
+*.jar
+*.war
+.classpath
+.project
+.settings/
+/bin/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
